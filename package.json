@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Trade-Offf/LoaderAndPlugin#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
     "webpack": "^5.50.0",
     "webpack-cli": "^4.7.2"
   },
