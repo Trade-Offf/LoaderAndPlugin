@@ -14,7 +14,7 @@ module.exports = {
 
         // 直接使用相对路径
 
-        use: "./markdown-loader",
+        use: ["html-loader", "./markdown-loader2"],
       },
     ],
   },
